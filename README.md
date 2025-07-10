@@ -50,8 +50,8 @@
 
 ```bash
 # 1. Kloniraj repozitorijum
-git clone https://github.com/yourusername/acaia-max.git
-cd acaia-max
+git clone https://github.com/sgazz/AcAIA.git
+cd AcAIA
 
 # 2. Konfiguriši API ključ
 cp docker.env .env
@@ -65,8 +65,8 @@ cp docker.env .env
 
 ```bash
 # 1. Kloniraj repozitorijum
-git clone https://github.com/yourusername/acaia-max.git
-cd acaia-max
+git clone https://github.com/sgazz/AcAIA.git
+cd AcAIA
 
 # 2. Postavi API ključ
 export OPENAI_API_KEY="sk-your-actual-api-key-here"
@@ -193,10 +193,10 @@ Projekat je spreman za deployment na:
 sudo apt update && sudo apt install docker.io docker-compose
 
 # 2. Kloniraj projekat
-git clone https://github.com/yourusername/acaia-max.git /opt/acaia-max
+git clone https://github.com/sgazz/AcAIA.git /opt/AcAIA
 
 # 3. Pokreni
-cd /opt/acaia-max
+cd /opt/AcAIA
 docker-compose up -d --build
 ```
 
@@ -274,10 +274,10 @@ Ovaj projekat je licenciran pod [MIT licencom](LICENSE).
 
 ## 📞 Podrška
 
-- 🐛 **Bug Reports**: [Otvorite issue](https://github.com/yourusername/acaia-max/issues)
-- 💡 **Feature Requests**: [Otvorite issue](https://github.com/yourusername/acaia-max/issues)
-- 📧 **Email**: your-email@example.com
-- 💬 **Discord**: [Pridružite se serveru](https://discord.gg/your-server)
+- 🐛 **Bug Reports**: [Otvorite issue](https://github.com/sgazz/AcAIA/issues)
+- 💡 **Feature Requests**: [Otvorite issue](https://github.com/sgazz/AcAIA/issues)
+- 📧 **Email**: sgazz@example.com
+- 💬 **Discord**: [Pridružite se serveru](https://discord.gg/acaia)
 
 ## ⭐ Zvezde
 
@@ -289,8 +289,8 @@ Ako vam se sviđa ovaj projekat, molimo vas da mu date zvezdicu! ⭐
 
 **AcAIA Max** - Napravljeno sa ❤️ za AI Assistant platformu
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/acaia-max?style=social)](https://github.com/yourusername/acaia-max)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/acaia-max?style=social)](https://github.com/yourusername/acaia-max)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/acaia-max)](https://github.com/yourusername/acaia-max/issues)
+[![GitHub stars](https://img.shields.io/github/stars/sgazz/AcAIA?style=social)](https://github.com/sgazz/AcAIA)
+[![GitHub forks](https://img.shields.io/github/forks/sgazz/AcAIA?style=social)](https://github.com/sgazz/AcAIA)
+[![GitHub issues](https://img.shields.io/github/issues/sgazz/AcAIA)](https://github.com/sgazz/AcAIA/issues)
 
 </div> 
